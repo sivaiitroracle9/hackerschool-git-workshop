@@ -25,3 +25,7 @@ git log
 git log --oneline 
 	--> shows the log as the compressed version.
 
+git diff
+	--> Shows what has changed between the staging area and the working directory.
+
+
