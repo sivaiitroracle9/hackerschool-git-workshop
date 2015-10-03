@@ -1,0 +1,9 @@
+pwd
+    lists present working directory
+
+ls
+  directory listing
+
+cd [directory-name]
+
+mkdir [directory-name]
