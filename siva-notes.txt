@@ -7,3 +7,14 @@ ls
 cd [directory-name]
 
 mkdir [directory-name]
+
+git init
+
+git add --> 
+	1. To add the untracked files, so that they can be tracked.
+	2. To update the files i.e. to track this modifications.
+
+commiting --> Taking the snapshot of the current version of the files.
+
+git commit -m '[message]'
+
