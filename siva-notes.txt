@@ -28,6 +28,8 @@ git log --oneline
 git diff
 	--> Shows what has changed between the staging area and the working directory.
 
+GIT Branching	--> working on different things with isolation.
+
 git branch [Name-featureA]
 	--> This creates a new branch for featureA.
 
