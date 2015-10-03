@@ -39,3 +39,11 @@ git checkout [branch-name]
 git checkout [commit-id]
 	--> switches to [commit-id]
 
+git revert --no-edit [commit-id]
+	Reverses [commit-id] commit by making another commit.
+
+git reset --hard
+	--> Resets the head. It builds the whole file from the commit history. ** All the unsaved/uncommited changes will
+	    be lost.
+
+
