@@ -36,6 +36,3 @@ git branch [Name-featureA]
 git checkout [branch-name]
 	--> Switches to branch [branch-name].
 
-git checkout [commit-id]
-	--> switches to [commit-id]
-
